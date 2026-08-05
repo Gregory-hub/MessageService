@@ -1,0 +1,52 @@
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# Assignment brief (local only)
+*.pdf
+
+# Nested Unity project generated / IDE files
+MessageService/[Ll]ibrary/
+MessageService/[Tt]emp/
+MessageService/[Oo]bj/
+MessageService/[Bb]uild/
+MessageService/[Bb]uilds/
+MessageService/[Ll]ogs/
+MessageService/[Uu]ser[Ss]ettings/
+MessageService/[Mm]emoryCaptures/
+MessageService/[Rr]ecordings/
+MessageService/.utmp/
+MessageService/*.log
+
+# Local player / Burst build leftovers
+MessageService/*_BurstDebugInformation_DoNotShip/
+MessageService/*.app
+
+# IDE
+.idea/
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# Unity crash / auto files
+sysinfo.txt
+mono_crash.*
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+InitTestScene*.unity*
